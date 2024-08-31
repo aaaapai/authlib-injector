@@ -10,7 +10,7 @@ repositories {
 
 dependencies {
 	implementation 'org.ow2.asm:asm:9.7'
-	testImplementation 'org.junit.jupiter:junit-jupiter:5.13.0'
+	testImplementation 'org.junit.jupiter:junit-jupiter:5.11.0'
 }
 
 tasks.withType(JavaCompile) {
